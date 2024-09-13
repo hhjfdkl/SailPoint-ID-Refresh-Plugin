@@ -65,3 +65,5 @@ After this successfully executes, 200 response (What to put in body?)
 Omitted API endpoint as it was not needed by the rest of the team
 
 50 per 15 seconds by default
+
+The "Refresh marked" task is defined within SailPoint, so there was no need to make the .xml import
